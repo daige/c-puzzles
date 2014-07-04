@@ -3,4 +3,4 @@ c-puzzles
 
 c-puzzles from  http://www.gowrikumar.com/c/index.html
 
-answer:http://daige.me/tag/%E8%B0%9C%E9%A2%98/  
+Answers: http://daige.me/tag/%E8%B0%9C%E9%A2%98/  
